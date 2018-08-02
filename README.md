@@ -5,13 +5,6 @@
 #### Propósito do nosso desafio
 Queremos entender qual a sua capacidade de resolver problemas, a forma como você pensa para resolvê-los e como você organiza o seu código.
 
-#### Limitações de linguagem
-Até o momento da execução do seu desafio as linguagens disponíveis são: 
-* JavaScript (NodeJs)
-* Java
-* C#.
-
-
 #### Modo de avaliação
 A equipe técnica considera primordiais os seguintes critérios:
 
@@ -117,15 +110,19 @@ Response:
 
 ## Orientações gerais
 
+Capriche no código.
+
+Crie uma documentação de como rodar o seu projeto!
+
+#### Banco de dados
 Caso você decida persistir os dados em banco de dados garanta que todos os arquivos para configuração do banco estejam disponíveis e limite-se as seguintes versões de banco de dados:
 * mongoDB
 * SQL Server
 * Oracle 11g
 
-Utilização de `container` para disponibilizar seu desafio será bem-vinda.
+#### Deploy do desafio
 
-Capriche no código.
+A forma como você disponibiliza o seu código faz parte do teste.
 
-Crie uma documentação de como rodar o seu projeto!
 
 Só começar!!!
